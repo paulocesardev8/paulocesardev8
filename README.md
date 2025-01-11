@@ -1,8 +1,13 @@
-👽 Me chamo, Paulo!
-💻 Gestor e estrategista de tráfego pago para mídia online - Analista de Marketing
-🎓 Estudante de Ciência de Dados - Faculdade Descomplica
+👽 Me chamo, Paulo! 
+
+💻 Gestor e estrategista de tráfego pago para mídia online - Analista de Marketing 
+
+🎓 Estudante de Ciência de Dados - Faculdade Descomplica 
+
 🧑🏾‍🚀 Um curioso em eterno aprendizado
+
 👨🏾‍💻 Minha jornada como Dev e todos os meus estudos de Programação
+
 🍀 Espero que você cresça, assim como faço para minha vida!
 
 <!---
