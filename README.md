@@ -44,8 +44,6 @@ My differentiator isn't just writing code, but building platforms focused on **s
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=paulocesardev8&theme=tokyonight&hide_border=true&background=0D1117" alt="Paulo's GitHub Streak" />
 </p>
