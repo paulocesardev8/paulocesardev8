@@ -53,4 +53,4 @@ My differentiator isn't just writing code, but building platforms focused on **s
 ### 🚀 Featured Projects
 
 * **[Sintonia Solutions](https://sintoniasolutions.com.br)** - High-performance sales platform tailored for digital services and mentorships. Built with Next.js, SSR, and native integration with conversion APIs (Meta/GA4).
-* **[Modern Portfolio](#)** - Personal portfolio developed with Next.js, Tailwind v4, and pure CSS animations focused on premium design and high performance.
+* **[Modern Portfolio](https://portfolio-paulo-nine.vercel.app/)** - Personal portfolio developed with Next.js, Tailwind v4, and pure CSS animations focused on premium design and high performance.
